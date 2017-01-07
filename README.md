@@ -5,7 +5,7 @@ Unity NB ColorExt is a set of C# extension methods for the Unity Color class tha
 
 ## Documentation
 
-To include the NB ColorUtil is available under the NB.ColorUtil namespace. The following code snippet shows how to use the included functions.
+NB ColorExt is available under the NB.ColorUtil namespace. The following code snippet shows how to use the included functions.
 
 ```c#
 //Use following namespace in scripts
@@ -36,4 +36,4 @@ float saturation = c.Saturation();
 float vibrance = c.Vibrance();
 
 ```
-
+The only required file is the 'Assets/NB.ColorExt/NB.ColorExt.cs'. Example project included in repository.
