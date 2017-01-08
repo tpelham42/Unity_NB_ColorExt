@@ -1,7 +1,10 @@
-## NB ColorExt For Unity Game Engine
+# NB ColorExt For Unity Game Engine
 
 ## Description
 Unity NB ColorExt is a set of C# extension methods for the Unity Color class that adds the ability to easily go to/from Html Hex Color or HSV (Hue, Saturation, Color). 
+
+## Demo
+[Sample Demo](http://tim.nitrousbutterfly.com/nbcolorext.html)
 
 ## Usage
 
